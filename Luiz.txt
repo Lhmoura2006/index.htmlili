@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>A Máfia Das Apostas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 30px 20px;
+      font-family: sans-serif;
+      background: #fff;
+      color: #000;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 2.4em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2em;
+      max-width: 800px;
+      line-height: 1.6em;
+      margin-bottom: 40px;
+    }
+
+    .button {
+      background: #000;
+      color: #fff;
+      padding: 16px 32px;
+      font-size: 1.2em;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: background 0.3s ease;
+    }
+
+    .button:hover {
+      background: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="WhatsApp%20Image%202025-06-29%20at%2022.49.55.jpeg" alt="Capa do Livro">
+
+  <h1>A Máfia Das Apostas</h1>
+
+  <p>
+    Dinheiro, poder e manipulação. Diante das luzes dos cassinos e da emoção das apostas online, existe uma realidade devastadora: o vício em jogos de azar.<br><br>
+    Neste e-book, temos como objetivo libertar vocês desse vício – desde os primeiros contatos com as apostas até o fundo do poço, onde dívidas e solidão dominavam suas vidas.<br><br>
+    Mas o foco deste livro não é a queda – é a libertação. <strong>Aposta Perdida</strong> é mais do que um alerta: é um guia de esperança para quem deseja retomar o controle da própria história.
+  </p>
+
+  <a href="https://seulinkdepagamento.com" class="button">Comprar com Pix ou Cartão</a>
+
+</body>
+</html>
